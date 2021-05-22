@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f0f5279536bce4fffb4b384ffc26ee83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - blockPrefab: {instanceID: 0}
+  - squareFill: {fileID: 21300000, guid: f949901470194ca4d821d18104a6b63a, type: 3}
+  - straight2Fill: {fileID: 21300000, guid: 28a1d9896997bd9438536d9ab91f1daf, type: 3}
+  - straight3Fill: {fileID: 21300000, guid: 9d71143bd36734b439045bd17e456c3d, type: 3}
+  - cornerFill: {fileID: 21300000, guid: b9d7563e9dc13ca47b54551ff8102e93, type: 3}
+  - cornerVlongFill: {fileID: 21300000, guid: 44638cae6618fdb48b268543f1a25ad5, type: 3}
+  - cornerHlongFill: {fileID: 21300000, guid: 614089e3344a6f5418fa85d702d39162, type: 3}
+  - squareFrame: {fileID: 21300000, guid: 5d426c673ec9bed43b185ff0d37d2dd5, type: 3}
+  - straight2Frame: {fileID: 21300000, guid: 0c76743ce0b37834ea9701fbd4048aa7, type: 3}
+  - straight3Frame: {fileID: 21300000, guid: 2088a3026aa0fee478379061d749c52b, type: 3}
+  - cornerFrame: {fileID: 21300000, guid: 1552fa8daa0f28b48aeae34286639a20, type: 3}
+  - cornerVlongFrame: {fileID: 21300000, guid: eb9ffc3fa870b5a439deea8643902af6, type: 3}
+  - cornerHlongFrame: {fileID: 21300000, guid: b8dc3ea13aeddab47a726d5d640c00d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
